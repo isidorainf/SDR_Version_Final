@@ -1,0 +1,15 @@
+2026-06-11T19:56:05.673876 | MEDIO | Contenido con categorías de riesgo: apariencia_fisica, intelectual
+--------------------------------------------------------------------------------
+Texto capturado: edionda fea estupida Archivo Editar Ver H1 := B I 5 ( 8 ~ edionda fea estupida Activar Windows Configuración para activar Windows. 16'C ESP 19.55 Nublado Buscar Ci c)) 11-06-2026
+
+Intención detectada: La intención de este mensaje es negativa porque tiene un tono agresivo o negativo.
+================================================================================
+MITIGACION_LLM:
+Nivel: MEDIO
+Motivo: contenido repetido de humillación social sin amenaza directa, respaldado por toxicidad moderada.
+Recomendación: monitorear interacción y reforzar apoyo emocional. Respuesta:
+Nivel: MEDIO
+Motivo: contenido repetido de humillación social sin amenaza directa, respaldado por toxicidad moderada.
+Recomendación: monitorear interação e reforçar apoio emocional. 
+
+Explicação: O texto contém repetições de humilhação social (apariência física e intelectual), mas não há ameaças diretas ou conteúdo que possa causar danos
